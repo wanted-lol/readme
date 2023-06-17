@@ -7,12 +7,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, voluptates!
 </p>
 
 <p align="center">
-	<a href="https://deno.land" target="_blank">
-    	<img src="https://img.shields.io/badge/Node-20.2.0-4e3f73?style=for-the-badge" alt="Node">
-     </a>
-	<a href="https://deno.land" target="_blank">
-    	<img src="https://img.shields.io/badge/TypeScript-5.0.0-4e3f73?style=for-the-badge" alt="Node">
-     </a>
+	<img src="https://img.shields.io/badge/Node-20.2.0-4e3f73?style=for-the-badge" alt="badge">
+	<img src="https://img.shields.io/badge/TypeScript-5.0.0-4e3f73?style=for-the-badge" alt="badge">
 </p>
 
 ## Setup 🔮
