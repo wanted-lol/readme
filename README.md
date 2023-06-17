@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="logo.svg" width="150px"><br>
+	<img src="https://github.com/wanted-lol/readme/blob/main/logo.svg" width="150px"><br>
     Title
 </h1>
 <p align="center">
